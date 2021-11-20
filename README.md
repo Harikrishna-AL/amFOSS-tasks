@@ -9,7 +9,7 @@ I am Harikrishna Pillai from Mumbai, fresher at Amrita School of Engineering (AI
 </tr>
 
 <tr>
-<td>Task-00</td>
+  <td><a href="https://github.com/Harikrishna-AL/amFOSS-tasks/tree/main/task-00">Task-00</a></td>
 <td>Installing Ubuntu</td>
 <td>Completed</td>
 </tr>
