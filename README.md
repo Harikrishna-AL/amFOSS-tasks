@@ -15,13 +15,13 @@ I am Harikrishna Pillai from Mumbai, fresher at Amrita School of Engineering (AI
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Harikrishna-AL/amFOSS-tasks/tree/main/task-01"Task-01</a></td>
+  <td><a href="https://github.com/Harikrishna-AL/amFOSS-tasks/tree/main/task-01">Task-01</a></td>
 <td>Staring amFOSS repositories</td>
 <td>Completed</td>
 </tr>
 
 <tr>
-  <td><a href="https://github.com/Harikrishna-AL/amFOSS-tasks/tree/main/task-02"Task-02</a></td>
+  <td><a href="https://github.com/Harikrishna-AL/amFOSS-tasks/tree/main/task-02">Task-02</a></td>
 <td>Begin your journey with Linux and Git</td>
 <td>Completed</td>
 </tr>
