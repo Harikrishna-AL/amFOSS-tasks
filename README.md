@@ -107,5 +107,6 @@ I am Harikrishna Pillai from Mumbai, fresher at Amrita School of Engineering (AI
 </table>
 
 # My views on the tasks
+Personally, I thought that the tasks were very interesting as it contained each and every filed that students would be interested upon. I think this gave us an idea that how each and every fields and softwares would look like and that gave us a clear perspective. Apart from that the tasks were moderately difficult. They were pretty doable. Even though I didn't know the process for all the tasks, 1 month was enoguh for me to learn the basics and do it.
 
 # Introduction
