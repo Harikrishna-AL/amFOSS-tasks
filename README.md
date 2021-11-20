@@ -59,7 +59,7 @@ I am Harikrishna Pillai from Mumbai, fresher at Amrita School of Engineering (AI
 <tr>
 <td>Task-08</td>
 <td>JS Explorer</td>
-<td>Not Attempted</td>
+<td>Completed</td>
 </tr>
 
 <tr>
