@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My Blogs</title>
+    <link>https://begineersBlog.github.io/posts/</link>
+    <description>Recent content in Posts on My Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 12 Nov 2021 16:15:47 +0530</lastBuildDate><atom:link href="https://begineersBlog.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guidance with my experience of making a site using Hugo</title>
+      <link>https://begineersBlog.github.io/posts/mypost/</link>
+      <pubDate>Fri, 12 Nov 2021 16:15:47 +0530</pubDate>
+      
+      <guid>https://begineersBlog.github.io/posts/mypost/</guid>
+      <description>Making Website using Hugo!! I would like to share my experiecne making a website using Hugo. Recently, I had to learn to make a website as a task for the recuirtment process for a club called amFOSS. As I was reading about the task, I thought that it would not be possible for me to do it. I only realized that it was a peice of cake only when I started doing it.</description>
+    </item>
+    
+    <item>
+      <title>Taking Inputs in Java</title>
+      <link>https://begineersBlog.github.io/posts/mypost2/</link>
+      <pubDate>Fri, 12 Nov 2021 16:15:47 +0530</pubDate>
+      
+      <guid>https://begineersBlog.github.io/posts/mypost2/</guid>
+      <description>import java.util.*; public static void main(String[] args){ System.out.println(&amp;#34;Hello&amp;#34;); Scanner in = new Scanner(System.in); } </description>
+    </item>
+    
+  </channel>
+</rss>
