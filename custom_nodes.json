@@ -1,0 +1,16 @@
+
+[
+  {
+            "author": "WASasquatch",
+            "title": "WAS Node Suite",
+            "id": "was",
+            "reference": "https://github.com/WASasquatch/was-node-suite-comfyui",
+            "pip": ["numba"],
+            "files": [
+                "https://github.com/WASasquatch/was-node-suite-comfyui"
+            ],
+            "install_type": "git-clone",
+            "description": "A node suite for ComfyUI with many new nodes, such as image processing, text processing, and more."
+  }
+]
+      
